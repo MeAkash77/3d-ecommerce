@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/github/last-commit/ShwetKhatri2001/AR-Webstore?style=for-the-badge" />
  </p></div>
 
-![AR-Webstore](https://socialify.git.ci/ShwetKhatri2001/AR-Webstore/image?description=1&descriptionEditable=Webstore%20of%20photorealistic%20%0A3D%20digital%20objects%20in%20AR%20&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
-
 <div align="center">
 <h2><i><b>Hi 👋, Shwet here and I welcome you to AR-Webstore!</b></i></h2>
 <h2><i><b>It's a web application to visualize photorealistic 3D objects in AR (Augmented Reality).</b></i></h2>
