@@ -10,7 +10,7 @@
  </p></div>
 
 <div align="center">
-<h2><i><b>Hi 👋, Shwet here and I welcome you to AR-Webstore!</b></i></h2>
+<h2><i><b>Hi 👋, Akash here and I welcome you to AR-Webstore!</b></i></h2>
 <h2><i><b>It's a web application to visualize photorealistic 3D objects in AR (Augmented Reality).</b></i></h2>
 </div>
 
