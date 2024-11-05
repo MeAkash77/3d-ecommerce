@@ -48,7 +48,6 @@ It provides you a list of e-commerce products along with their 3D photorealistic
 
 ## 👀 Preview
 
-## [Live Link](https://ar-webstore.netlify.app/)
 
 <div style="display:flex;">
   <img src="https://github.com/ShwetKhatri2001/AR-Webstore/assets/56475750/0086f8a4-6f5e-4fcb-a2a8-da6e3c50a745" 
@@ -138,62 +137,5 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 
 ```
 npm run build
-```
-<a name="debug"></a>
-## 📝 A note on debugging
 
-For development and debugging, attach the device to your machine using a cable and access the url `chrome://inspect/#devices` in your desktop version of Chrome. Allow debug access when prompted on your device. You should then be able to see your device appear in the inspection window you opened earlier, where you can use the `inspect` functionality to get access to the running app instance for debugging.
 
-<a name="open-source"></a>
-## 📌 Open source Programs
-
-### This project has been a part of the following Open Source Programs
-
-<br>
-
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png">
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/63473496/213306279-338f7ce9-9a9f-4427-8c2a-3e344874498f.png">
-    <img alt="Girlscript Summer of Code" width=500 src="https://user-images.githubusercontent.com/63473496/213306279-338f7ce9-9a9f-4427-8c2a-3e344874498f.png">
-  </picture>
-</div>
-
-<br/>
-<br/>
-<img src="https://github.com/ShwetKhatri2001/Swetify-Music/assets/56475750/32c23460-579d-4158-b1c5-aaae3b53cba7" width="500" />
-<br/>
-<br/>
-<br/>
-<img src="https://github.com/ShwetKhatri2001/Swetify-Music/assets/56475750/cafaa1b8-4f6e-40a4-bf19-371e173faf63" width="400" />
-<br/>
-<br/>
-<img src="https://github.com/ShwetKhatri2001/Swetify-Music/assets/56475750/fcfa9ffe-7d51-4ad8-89e0-ae38589a710e" width="250" />
-<br/>
-<br/>
-
-<a name="project-admin"></a>
-## Project Admin
-<table>
-        <tr>
-            <td align="centre"><a href="https://github.com/ShwetKhatri2001"><img alt=""
-                        src="https://avatars.githubusercontent.com/u/56475750?v=4" width="150px;" height="150px;"><br><sub><b> Shwet Khatri
-                        </b></sub></a><br></td> </a></td>
-</table>
-
-## Mentors
-I am looking for some mentors who can help me maintain the project workflow.
-
-<a name="contributors"><a/>
-  
-## Contributors 🎇
-
-### Credits goes to these people:
-
-<a href="https://github.com/ShwetKhatri2001/AR-Webstore/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=ShwetKhatri2001/AR-Webstore" />
-</a>
-
-#   3 d - e c o m m e r c e  
- #   3 d - e c o m m e r c e  
- 
